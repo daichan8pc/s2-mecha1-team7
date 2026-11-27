@@ -1,11 +1,11 @@
 <mxfile host="Electron">
   <diagram name="ページ-1" id="iLnZ6d3ra_iFVNRqQKNg">
-    <mxGraphModel dx="1587" dy="1208" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1018" dy="775" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="8K0PeqDTVyLfdtXd5w3N-141" connectable="0" parent="1" style="group" value="" vertex="1">
-          <mxGeometry height="492" width="1135.85" x="17" as="geometry" />
+          <mxGeometry height="492" width="1135.85" x="30" as="geometry" />
         </mxCell>
         <mxCell id="8K0PeqDTVyLfdtXd5w3N-1" parent="8K0PeqDTVyLfdtXd5w3N-141" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.signal_sources.signal_ground;labelPerimeter=1;container=0;" value="" vertex="1">
           <mxGeometry height="30.750000000000004" width="39.56133900928791" x="35.165634674922586" y="430.5" as="geometry" />
